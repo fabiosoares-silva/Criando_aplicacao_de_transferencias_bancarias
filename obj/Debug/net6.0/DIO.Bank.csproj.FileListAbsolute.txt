@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\ref\DIO.Bank.dll
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+C:\Users\fabio\Desktop\Projetos\Projeto Criando uma aplicação bancária com .NET\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
